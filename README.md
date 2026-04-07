@@ -1,38 +1,17 @@
-# The Bit Busters - Community Website
+# The Bit Busters - Multi-Language Community Website
 
-Community platform for The Bit Busters. Built with React, Vite, Tailwind CSS, shadcn/ui.
+**Multi-Language Stack:**
+- **Frontend**: React + Vite + JavaScript (TypeScript converted, shadcn/ui)
+- **Backend**: Python Flask API (`backend/python/app.py`)
+- **CLI Tool**: Rust (`tools/rust/`)
 
-## Features
-- Home, About, Team, Projects, Blog, Community pages
-- Responsive UI with particle backgrounds
-- Admin dashboard, auth (Login/Signup)
-- UI components gallery
+## Frontend
+Responsive community site with pages for home, team, projects, blog, etc.
 
-Figma design source: https://www.figma.com/design/G5FrjrfF36POiSDi985Tpy/Community-website-for-The-Bit-Busters
-
-## Quick Start
+## Backend (Python)
+Flask API:
 ```bash
-pnpm install
-pnpm dev
-```
-
-Open http://localhost:5173
-
-## Project Structure
-```
-.
-├── src/app/     # Pages & components
-├── src/styles/  # CSS & themes
-├── guidelines/  # Docs
-├── package.json # pnpm deps
-└── vite.config.ts
-```
-
-## Tech Stack
-- React 18
-- Vite
-- Tailwind CSS
-- shadcn/ui
-- TypeScript
-
-Work in progress - contributions welcome!
+cd backend/python
+python -m venv venv
+venv\\Scripts\\activate
+pip install -
