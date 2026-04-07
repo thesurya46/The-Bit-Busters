@@ -1,18 +1,38 @@
-# The-Bit-Busters
-This is our community website . it's not in fully completed . we worked on it . We eagrly try to complete the website ASAP
->>>>>>> 6e1f6f168ca79ce6f1ac15d971c145d92eb83e59
-=======
-# Community website for The Bit Busters (The-Bit-Busters)
+# The Bit Busters - Community Website
 
-This is the community website project for The Bit Busters. Originally from Figma design: https://www.figma.com/design/G5FrjrfF36POiSDi985Tpy/Community-website-for-The-Bit-Busters.
+Community platform for The Bit Busters. Built with React, Vite, Tailwind CSS, shadcn/ui.
 
-## Running the code
+## Features
+- Home, About, Team, Projects, Blog, Community pages
+- Responsive UI with particle backgrounds
+- Admin dashboard, auth (Login/Signup)
+- UI components gallery
 
-Run `pnpm install` to install dependencies (uses pnpm).
+Figma design source: https://www.figma.com/design/G5FrjrfF36POiSDi985Tpy/Community-website-for-The-Bit-Busters
 
-Run `pnpm dev` to start the Vite dev server.
-  
-=======
-# The-Bit-Busters
-This is our community website . it's not in fully completed . we worked on it . We eagrly try to complete the website ASAP
->>>>>>> 6e1f6f168ca79ce6f1ac15d971c145d92eb83e59
+## Quick Start
+```bash
+pnpm install
+pnpm dev
+```
+
+Open http://localhost:5173
+
+## Project Structure
+```
+.
+├── src/app/     # Pages & components
+├── src/styles/  # CSS & themes
+├── guidelines/  # Docs
+├── package.json # pnpm deps
+└── vite.config.ts
+```
+
+## Tech Stack
+- React 18
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- TypeScript
+
+Work in progress - contributions welcome!
