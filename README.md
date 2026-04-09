@@ -1,4 +1,4 @@
-# The Bit Busters - Multi-Language Community Website
+# The Bit Busters - Multi-Language Community Website :
 
 **Multi-Language Stack:**
 - **Frontend**: React + Vite + JavaScript (TypeScript converted, shadcn/ui)
