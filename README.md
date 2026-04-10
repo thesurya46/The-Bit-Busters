@@ -5,7 +5,7 @@
 - **Backend**: Python Flask API (`backend/python/app.py`)
 - **CLI Tool**: Rust (`tools/rust/`)
 
-## Frontend
+## Frontend :
 Responsive community site with pages for home, team, projects, blog, etc.
 
 ## Backend (Python)
