@@ -8,7 +8,7 @@
 ## Frontend :
 Responsive community site with pages for home, team, projects, blog, etc.
 
-## Backend (Python)
+## Backend (Python) :
 Flask API:
 ```bash
 cd backend/python
