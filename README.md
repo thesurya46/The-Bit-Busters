@@ -9,7 +9,7 @@
 Responsive community site with pages for home, team, projects, blog, etc.
 
 ## Backend (Python) :
-Flask API:
+#### Flask API:
 ```bash
 cd backend/python
 python -m venv venv
